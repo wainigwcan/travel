@@ -1,0 +1,29 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "沈阳乐高探索中心",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1812/6e/6e53feee4290b8c4a3.img.jpg_600x330_7e548fc7.jpg",
+    "gallaryImgs": [
+    		"http://img1.qunarzz.com/sight/p0/1812/6e/6e53feee4290b8c4a3.img.jpg_r_800x800_4cb773de.jpg", 
+    		"http://img1.qunarzz.com/sight/p0/1812/2b/2bbb140578c4ff3aa3.img.jpg_r_800x800_18d3d11a.jpg", 
+    		"http://img1.qunarzz.com/sight/p0/1812/67/674d6c02f57c59fda3.img.jpg_r_800x800_d2eddd24.jpg"
+    		],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}

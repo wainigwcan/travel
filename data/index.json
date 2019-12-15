@@ -1,0 +1,215 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+      }],
+    "iconList01": [{
+  	  	"id": "0001",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+  	  	"imgAlt": "景点门票",
+  	  	"title": "景点门票",
+  	  	"content": "景点门票"
+  	  },{
+  	  	"id": "0002",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+  	  	"imgAlt": "一日游",
+  	  	"title": "一日游",
+  	  	"content": "一日游"
+  	  },{
+  	  	"id": "0003",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/48/cb72b99b71974c02.png",
+  	  	"imgAlt": "生活休闲",
+  	  	"title": "生活休闲",
+  	  	"content": "生活休闲"
+  	  },{
+  	  	"id": "0004",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+  	  	"imgAlt": "泡温泉",
+  	  	"title": "泡温泉",
+  	  	"content": "泡温泉"
+  	  },{
+  	  	"id": "0005",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+  	  	"imgAlt": "名胜古迹",
+  	  	"title": "名胜古迹",
+  	  	"content": "名胜古迹"
+  	  },{
+  	  	"id": "0006",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+  	  	"imgAlt": "游乐场",
+  	  	"title": "游乐场",
+  	  	"content": "游乐场"
+  	  },{
+  	  	"id": "0007",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+  	  	"imgAlt": "打卡圣地",
+  	  	"title": "打卡圣地",
+  	  	"content": "打卡圣地"
+  	  },{
+  	  	"id": "0008",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+  	  	"imgAlt": "沈阳必游",
+  	  	"title": "沈阳必游",
+  	  	"content": "沈阳必游"
+  	  }],
+  	"iconList02": [{
+  	  	"id": "0001",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+  	  	"imgAlt": "亲子游",
+  	  	"title": "亲子游",
+  	  	"content": "亲子游"
+  	  },{
+  	  	"id": "0002",
+  	  	"iconHref": "#",
+  	  	"imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+  	  	"imgAlt": "全部玩乐",
+  	  	"title": "全部玩乐",
+  	  	"content": "全部玩乐"
+  	  }],
+    "htsList": [{
+					"id": "0001",
+					"tagImgSrc": "https://imgs.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+					"tagImgAlt": "沈阳清河半岛温泉度假酒店",
+					"imgAlt": "沈阳清河半岛温泉度假酒店",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/1712/91/9103c54e49fab2a3a3.img.jpg_250x250_73853eb0.jpg",
+					"hotSalePrice": "159"
+				},{
+					"id": "0002",
+					"tagImgSrc": "https://imgs.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+					"tagImgAlt": "沈阳故宫",
+					"imgAlt": "沈阳故宫",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/1509/99/990b3e72493bf6f2.img.jpg_250x250_9feef645.jpg",
+					"hotSalePrice": "58"
+				},{
+					"id": "0003",
+					"tagImgSrc": "https://imgs.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+					"tagImgAlt": "沈阳昭陵",
+					"imgAlt": "沈阳昭陵",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/1412/d0/b52795887845a6a0ef4b632557a82a39.water.jpg_250x250_49e4cb0d.jpg",
+					"hotSalePrice": "0.1"
+				},{
+					"id": "0004",
+					"tagImgSrc": "",
+					"imgAlt": "辽中花溪地温泉生态乐园",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/1511/8d/8dbda79a745dd0290.img.jpg_250x250_da1a42ba.jpg",
+					"hotSalePrice": "45"
+				},{
+					"id": "0005",
+					"tagImgSrc": "",
+					"imgAlt": "梅江汇温泉洗浴",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/1810/22/228a2f188c30a59fa3.img.jpg_250x250_82d7c10a.jpg",
+					"hotSalePrice": "21.9"
+				},{
+					"id": "0006",
+					"tagImgSrc": "",
+					"imgAlt": "张氏帅府",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/201401/22/29477dff4c882ff4a1bb81e20c371c5e.jpg_250x250_e7e364bd.jpg",
+					"hotSalePrice": "0.1"
+				},{
+					"id": "0007",
+					"tagImgSrc": "",
+					"imgAlt": "沈阳森林动物园",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/201301/17/488c835720fe935e93835fbb.jpg_250x250_e65d0a7e.jpg",
+					"hotSalePrice": "70"
+				},{
+					"id": "0008",
+					"tagImgSrc": "",
+					"imgAlt": "沈阳北汤温泉",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/1604/bc/bcc8096d9e5b28aa90.img.jpg_250x250_7c2e7fca.jpg",
+					"hotSalePrice": "49"
+				},{
+					"id": "0009",
+					"tagImgSrc": "",
+					"imgAlt": "怪坡",
+					"conImgSrc": "https://imgs.qunarzz.com/sight/p0/201403/07/b338c01bf6bb3f8d2dfa60d8c53849ec.jpg_250x250_38f35336.jpg",
+					"hotSalePrice": "35"
+				},{
+					"id": "0010",
+					"tagImgSrc": "",
+					"imgAlt": "格林天沐温泉",
+					"conImgSrc": "https://imgs.qunarzz.com/tuan/team2/1507/9e/281c1131109807.jpg_250x250_00b0bb3d.jpg",
+					"hotSalePrice": "78"
+				}],
+		"recList": [{
+					"id": "0001",
+					"imgSrc": "https://imgs.qunarzz.com/sight/p0/1712/91/9103c54e49fab2a3a3.img.jpg_200x200_1211295b.jpg",
+					"imgAlt": "沈阳清河半岛温泉度假酒店",
+					"iconWidth": "100%",
+					"commentNum": 1685,
+					"priceNum": 159,
+					"itemAddr": "沈北新区"
+				},{
+					"id": "0002",
+					"imgSrc": "https://imgs.qunarzz.com/sight/p0/201403/07/b338c01bf6bb3f8d2dfa60d8c53849ec.jpg_200x200_723e3d52.jpg",
+					"imgAlt": "怪坡",
+					"iconWidth": "95%",
+					"commentNum": 647,
+					"priceNum": 35,
+					"itemAddr": "沈北新区"
+				},{
+					"id": "0003",
+					"imgSrc": "https://imgs.qunarzz.com/sight/p0/1712/91/9103c54e49fab2a3a3.img.jpg_200x200_1211295b.jpg",
+					"imgAlt": "沈阳森林动物园",
+					"iconWidth": "100%",
+					"commentNum": 2021,
+					"priceNum": 70,
+					"itemAddr": "沈阳棋盘..."
+				}],
+    "weekendList": [{
+					"id": "0001",
+					"itemHref": "#",
+					"imgUrl": "https://imgs.qunarzz.com/sight/source/1510/65/e8de5fdd8fead6.jpg_r_640x214_c3ab2c3f.jpg",
+					"imgAlt": "沈阳温泉全攻略",
+					"info01": "沈阳温泉全攻略",
+					"info02": "这个冬天细数辽宁温泉排行榜"
+				},{
+					"id": "0002",
+					"itemHref": "#",
+					"imgUrl": "https://imgs.qunarzz.com/sight/source/1505/98/392c73a32d5ce0.jpg_r_640x214_bc565fa1.jpg",
+					"imgAlt": "沈阳必游TOP10",
+					"info01": "沈阳必游TOP10",
+					"info02": "初入黑土地，玩味多彩人生"
+				},{
+					"id": "0003",
+					"itemHref": "#",
+					"imgUrl": "https://imgs.qunarzz.com/sight/source/1509/53/73f40f02faa00a.jpg_r_640x214_0d0a0523.jpg",
+					"imgAlt": "沈阳赏秋地图",
+					"info01": "沈阳赏秋地图",
+					"info02": "红黄绿的叠加，用美不胜收形容也不为过"
+				},{
+					"id": "0004",
+					"itemHref": "#",
+					"imgUrl": "https://imgs.qunarzz.com/sight/source/1507/6b/70d17d828d87e1.jpg_r_640x214_6a995270.jpg",
+					"imgAlt": "周末游首选",
+					"info01": "周末游首选",
+					"info02": "当地人经常出没的地方"
+				},{
+					"id": "0005",
+					"itemHref": "#",
+					"imgUrl": "https://imgs.qunarzz.com/sight/source/1505/89/267342d404cbd7.jpg_r_640x214_8d8d1162.jpg",
+					"imgAlt": "亲子游乐",
+					"info01": "亲子游乐",
+					"info02": "儿童的天堂，大人的回忆"
+				}]
+  }
+}
